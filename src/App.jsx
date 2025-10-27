@@ -72,7 +72,7 @@ const App = () => {
   };
 
   return (
-    <main className="flex flex-col items-center justify-center bg-[#C5E4E7] pt-20 md:pt-40 pb-0 md:pb-50" >
+    <main className="flex flex-col items-center justify-center bg-[#C5E4E7] pt-20 md:pt-42 pb-0 md:pb-50" >
       <img src="./images/logo.svg" alt="logo" />
       <section className="flex flex-col md:flex-row bg-white rounded-t-4xl md:rounded-3xl shadow-lg p-8 w-full md:w-[900px] mt-20 gap-4">
         
