@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/omar-aser93/tip-calculator-app)
+- Live Site URL: (https://omar-aser93.github.io/tip-calculator-app/)
 
 
 ## My process
